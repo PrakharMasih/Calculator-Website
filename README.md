@@ -29,3 +29,4 @@ Its useful for simple calculations.
 
 ### Screenshot
 - - -
+![Sample](images/calc.png)
